@@ -1,0 +1,9 @@
+anos_exp = float (input("anos de experiência na área: "))
+
+if anos_exp >=5:   
+    print("categoria: desenvolver sênior")
+elif anos_exp >2:
+    print("categoria:desenvolver pleno")
+else:
+    print("catgoria: desenvolver junior")
+    

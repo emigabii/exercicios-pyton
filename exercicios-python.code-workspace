@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"folders": [
 		{
 			"name": "exercicios-python",
@@ -6,4 +7,11 @@
 		}
 	],
 	"settings": {}
+=======
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
+>>>>>>> 89a35c1732051112d1e21ebac622b4099ec0f0c5
 }
